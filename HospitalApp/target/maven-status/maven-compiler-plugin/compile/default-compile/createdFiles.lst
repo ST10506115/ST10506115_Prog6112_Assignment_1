@@ -1,0 +1,8 @@
+com\mycompany\hospitalapp\PatientManager.class
+com\mycompany\hospitalapp\Bed.class
+com\mycompany\hospitalapp\Ward.class
+com\mycompany\hospitalapp\HospitalApp.class
+com\mycompany\hospitalapp\ReportManager.class
+com\mycompany\hospitalapp\PatientCategory.class
+com\mycompany\hospitalapp\Patient.class
+com\mycompany\hospitalapp\Inpatient.class
